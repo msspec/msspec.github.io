@@ -1,0 +1,1 @@
+Search.setIndex({docnames:["index"],envversion:52,filenames:["index.rst"],objects:{},objnames:{},objtypes:{},terms:{auger:0,diffract:0,electron:0,energi:0,index:0,low:0,materi:0,modul:0,multipl:0,packag:0,page:0,photoelectron:0,probe:0,rai:0,scatter:0,search:0,spectroscopi:0,using:0},titles:["MsSpec"],titleterms:{indic:0,introduct:0,msspec:0,tabl:0}})
